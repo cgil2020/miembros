@@ -1,34 +1,40 @@
 {
-  "squadName" : "mision Tic 2022",
-  "Universidad" : "UTP",
-  "Reto" : 2,
+  "squadName" : "Super Hero Squad",
+  "homeTown" : "Metro City",
+  "formed" : 2016,
   "secretBase" : "Super tower",
   "active" : true,
-  "heroes" : [
+  "members" : [
     {
-      "name" : "Natalia Santos Leon",
-      "age" : 23,
-      "secretIdentity" : "Bogotá",
+      "name" : "Molecule Man",
+      "age" : 29,
+      "secretIdentity" : "Dan Jukes",
       "powers" : [
-        "Est. ing. de sistemas",
-        "Patinadora",
-        "nadadora"
+        "Radiation resistance",
+        "Turning tiny",
+        "Radiation blast"
       ]
     },
     {
-      "name" : "Joseph Caicedo Sanchez",
-      "age" : 20,
-      "secretIdentity" : "Neiva",
+      "name" : "Madame Uppercut",
+      "age" : 39,
+      "secretIdentity" : "Jane Wilson",
       "powers" : [
-        "Est. Ing. electronica",      ]
+        "Million tonne punch",
+        "Damage resistance",
+        "Superhuman reflexes"
+      ]
     },
     {
-      "name" : "Cristobal Gil Guevara",
-      "age" : 50,
-      "secretIdentity" : "Bogotá",
+      "name" : "Eternal Flame",
+      "age" : 1000000,
+      "secretIdentity" : "Unknown",
       "powers" : [
-        "Ing. electrónico",
-        "microempresario",
+        "Immortality",
+        "Heat Immunity",
+        "Inferno",
+        "Teleportation",
+        "Interdimensional travel"
       ]
     }
   ]
