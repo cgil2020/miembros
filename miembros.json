@@ -6,7 +6,7 @@
   "active" : true,
   "members" : [
     {
-      "nombre" : "Natalia Santos León",
+      "nombre" : "Natalia  Santos León",
       "edad" : 23,
       "ciudad" : "Bogotá",
       "caracteristicas" : [
@@ -24,12 +24,11 @@
       ]
     },
     {
-      "nombre" : "Cristóbal Gi",
+      "nombre" : "Cristóbal Gil Guevara",
       "edad" : 50,
       "ciudad" : "Bogotá",
       "caracteristicas" : [
         "Ingeniero electrónico",
-        "Microprocesadores",
         "Automatizacion",
         "Telecomunicaciones"
       ]
