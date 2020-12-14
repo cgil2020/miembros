@@ -7,7 +7,7 @@
   "members" : [
     {
       "nombre" : "Molecule Man",
-      "edad" : 29,
+      "edad" : 23,
       "ciudad" : "Dan Jukes",
       "caracteristicas" : [
         "Radiation resistance",
@@ -17,7 +17,7 @@
     },
     {
       "nombre" : "Madame Uppercut",
-      "edad" : 39,
+      "edad" : 20,
       "ciudad" : "Jane Wilson",
       "caracteristicas" : [
         "Million tonne punch",
@@ -27,7 +27,7 @@
     },
     {
       "nombre" : "Eternal Flame",
-      "edad" : 1000000,
+      "edad" : 50,
       "ciudad" : "Unknown",
       "caracteristicas" : [
         "Immortality",
