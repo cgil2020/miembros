@@ -20,9 +20,7 @@
       "edad" : 20,
       "ciudad" : "Neiva",
       "caracteristicas" : [
-        "Estudiante ing. Electrónica",
-        "Damage resistance",
-        "Superhuman reflexes"
+        "Estudiante ing. Electrónica"
       ]
     },
     {
@@ -31,10 +29,9 @@
       "ciudad" : "Bogotá",
       "caracteristicas" : [
         "Ingeniero electrónico",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
+        "Microprocesadores",
+        "Automatizacion",
+        "Telecomunicaciones"
       ]
     }
   ]
