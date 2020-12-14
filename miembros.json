@@ -9,7 +9,7 @@
       "nombre" : "Molecule Man",
       "edad" : 29,
       "ciudad" : "Dan Jukes",
-      "powers" : [
+      "caracteristicas" : [
         "Radiation resistance",
         "Turning tiny",
         "Radiation blast"
@@ -19,7 +19,7 @@
       "nombre" : "Madame Uppercut",
       "edad" : 39,
       "ciudad" : "Jane Wilson",
-      "powers" : [
+      "caracteristicas" : [
         "Million tonne punch",
         "Damage resistance",
         "Superhuman reflexes"
@@ -29,7 +29,7 @@
       "nombre" : "Eternal Flame",
       "edad" : 1000000,
       "ciudad" : "Unknown",
-      "powers" : [
+      "caracteristicas" : [
         "Immortality",
         "Heat Immunity",
         "Inferno",
