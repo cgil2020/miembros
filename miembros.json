@@ -4,11 +4,11 @@
   "Reto" : 2,
   "secretBase" : "Super tower",
   "active" : true,
-  "members" : [
+  "heroes" : [
     {
       "name" : "Natalia Santos Leon",
       "age" : 23,
-      "ciudad" : "Bogotá",
+      "secretIdentity" : "Bogotá",
       "powers" : [
         "Est. ing. de sistemas",
         "Patinadora",
@@ -18,14 +18,14 @@
     {
       "name" : "Joseph Caicedo Sanchez",
       "age" : 20,
-      "ciudad" : "Neiva",
+      "secretIdentity" : "Neiva",
       "powers" : [
         "Est. Ing. electronica",      ]
     },
     {
       "name" : "Cristobal Gil Guevara",
       "age" : 50,
-      "ciudad" : "Bogotá",
+      "secretIdentity" : "Bogotá",
       "powers" : [
         "Ing. electrónico",
         "microempresario",
