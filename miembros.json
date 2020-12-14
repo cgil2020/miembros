@@ -6,35 +6,29 @@
   "active" : true,
   "members" : [
     {
-      "name" : "Natalian",
-      "age" : 29,
-      "secretIdentity" : "Dan Jukes",
+      "name" : "Natalia Santos Leon",
+      "age" : 23,
+      "ciudad" : "Bogotá",
       "powers" : [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
+        "Est. ing. de sistemas",
+        "Patinadora",
+        "nadadora"
       ]
     },
     {
-      "name" : "Joseph",
-      "age" : 39,
-      "secretIdentity" : "Jane Wilson",
+      "name" : "Joseph Caicedo Sanchez",
+      "age" : 20,
+      "ciudad" : "Neiva",
       "powers" : [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
-      ]
+        "Est. Ing. electronica",      ]
     },
     {
-      "name" : "Cristobal",
-      "age" : 1000000,
-      "secretIdentity" : "Unknown",
+      "name" : "Cristobal Gil Guevara",
+      "age" : 50,
+      "ciudad" : "Bogotá",
       "powers" : [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
+        "Ing. electrónico",
+        "microempresario",
       ]
     }
   ]
