@@ -6,31 +6,31 @@
   "active" : true,
   "members" : [
     {
-      "nombre" : "Molecule Man",
+      "nombre" : "Natalia Santos León",
       "edad" : 23,
-      "ciudad" : "Dan Jukes",
+      "ciudad" : "Bogotá",
       "caracteristicas" : [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
+        "Estudiante ing. Sistemas",
+        "Patinaje",
+        "Natación"
       ]
     },
     {
-      "nombre" : "Madame Uppercut",
+      "nombre" : "Joseph Caicedo Sáenz",
       "edad" : 20,
-      "ciudad" : "Jane Wilson",
+      "ciudad" : "Neiva",
       "caracteristicas" : [
-        "Million tonne punch",
+        "Estudiante ing. Electrónica",
         "Damage resistance",
         "Superhuman reflexes"
       ]
     },
     {
-      "nombre" : "Eternal Flame",
+      "nombre" : "Cristóbal Gi",
       "edad" : 50,
-      "ciudad" : "Unknown",
+      "ciudad" : "Bogotá",
       "caracteristicas" : [
-        "Immortality",
+        "Ingeniero electrónico",
         "Heat Immunity",
         "Inferno",
         "Teleportation",
